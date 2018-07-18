@@ -1,0 +1,56 @@
+#cong {
+  background: #141e2b;
+  height: 610px;
+  position: absolute;
+}
+#cong #cong1 {
+  height: 100%;
+}
+#cong #cong1 #cong2 {
+  float: left;
+  height: 100%;
+  width: 50%;
+}
+#cong #cong1 #cong2 #cong3 {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+#cong #cong1 #cong2 #cong3 #cong4 {
+  background: #4a8fe0;
+  width: 13%;
+  height: 10%;
+  margin-top: 20%;
+  border-radius: 10%;
+}
+#cong #cong1 #cong2 #cong3 #cong4 #c1 {
+  font-size: 300%;
+  color: #fff;
+  background: #4a8fe0;
+  margin-left: 20%;
+  margin-top: 8%;
+}
+#cong #cong1 #cong2 #cong3 h2 {
+  margin: 0;
+  padding: 0;
+  width: 90%;
+  color: #4990e1;
+  font-size: 30pt;
+  margin-top: 7%;
+}
+#cong #cong1 #cong2 #cong3 p {
+  color: #868891;
+  font-size: 100%;
+  margin-top: 7%;
+  width: 90%;
+}
+#cong #cong1 #cong21 {
+  float: right;
+  position: relative;
+  height: 100%;
+  width: 50%;
+  background-image: url("a.png");
+  background-repeat: none;
+  background-size: cover;
+}
